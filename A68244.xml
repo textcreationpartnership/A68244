@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane fruitfull meditatioun contening ane plane and facill expositioun of ye 7.8.9 and 10 versis of the 20 chap. of the Reuelatioun in forme of ane sermone. Set doun be ye maist christiane King and synceir professour, and cheif defender of the treuth, Iames the 6 King of Scottis</title>
+            <author>James I, King of England, 1566-1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68244</idno>
+            <idno type="STC">STC 14376</idno>
+            <idno type="STC">ESTC S101073</idno>
+            <idno type="EEBO-CITATION">99836897</idno>
+            <idno type="PROQUEST">99836897</idno>
+            <idno type="VID">1190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 572:08, 963:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane fruitfull meditatioun contening ane plane and facill expositioun of ye 7.8.9 and 10 versis of the 20 chap. of the Reuelatioun in forme of ane sermone. Set doun be ye maist christiane King and synceir professour, and cheif defender of the treuth, Iames the 6 King of Scottis</title>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Galloway, Patrick, ca. 1551-ca. 1626.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Be Henrie Charteris,</publisher>
+                  <pubPlace>Imprentit at Edinburgh :</pubPlace>
+                  <date>M.D.LXXXVIII. [1588]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>"To the Christiane reider" signed: Patrick Gallow.</note>
+                  <note>At foot of title page: Cum priuilegio regali.</note>
+                  <note>Running title reads: Ane meditatioun on sum vers. of the xx chap of the Revel.</note>
+                  <note>Identified as STC 14380 on UMI microfilm, reel 572.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+                  <note>Appears at reel 572 and at reel 963 (both are British Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelations --  Commentaries --  Early works to 1800.</term>
+               <term>Sermons, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1190:1"/>
+            <pb facs="tcp:1190:1" rendition="simple:additions"/>
+            <p>ANE FRVITFVLL MEDITA<g ref="char:EOLhyphen"/>tioun contening ane PLANE AND FACILL EX<g ref="char:EOLhyphen"/>poſitioun of ye 7.8.9 and 10 verſis of the 20 Chap. of the Reuelatioun in forme of ane ſermone. Set doun be ye maiſt chriſtiane King and ſyn<g ref="char:EOLunhyphen"/>ceir profeſſour, and cheif de<g ref="char:EOLhyphen"/>fender of the treuth, IA<g ref="char:EOLhyphen"/>MES the 6 King of Scottis.</p>
+            <q>
+               <bibl>2. THESS. CHAP. 1. VERS. 6.7 8.</bibl>
+               <p>¶ For it is ane righteous thing with GOD, to re<g ref="char:EOLhyphen"/>compe<g ref="char:cmbAbbrStroke">̄</g>ſe tribulation to them yat trouble you, And to you which ar troubled, reſt with vs, when ye Lord IESVS ſall ſhew him ſelf from heauen with his michtie Angels, In flamming fire, rendring vengeance vnto them, that do not know GOD, and which obey not vnto ye Goſpell of our Lord IESVS CHRIST.</p>
+            </q>
+            <p>IMPRENTIT AT EDINBVRGH BE HENRIE CHARTERIS. M.D.LXXXVIII. Cum Priuilegio Regali.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:1190:2"/>
+            <pb facs="tcp:1190:2"/>
+            <head>TO THE CHRISTIANE REIDER.</head>
+            <p>
+               <seg rend="decorInit">V</seg>PON the 5 day of Septe<g ref="char:cmbAbbrStroke">̄</g>ber thair cu<g ref="char:cmbAbbrStroke">̄</g>mes to my han<g ref="char:EOLhyphen"/>dis happelie ane worke worthie of all praiſe, quhilk Goddis Spirit did vtter be our Souerane, as ane wit<g ref="char:EOLhyphen"/>nes of his graces knawledge in the hie miſteries of God, and ane teſtimonie of his hienes maiſt vnfein<g ref="char:EOLhyphen"/>ȝeit loue toward trew religioun, be many nationes at that tyme ioyned vnder the conduict of the Spainȝard mich<g ref="char:EOLhyphen"/>telie inuadit: to wit, Ane Meditatioun contening ane plane ex<g ref="char:EOLhyphen"/>poſitioun of the 7.8.9 and 10 verſis of the 20 chaptour of the Reuelatioun, and ſet doun in forme of ane ſermone, with nota<g ref="char:EOLhyphen"/>ble heidis of doctrine proper for our tyme collected thairon. Af<g ref="char:EOLhyphen"/>ter reiding quhairof, conſiddering my dewtie toward the Kirk of Chriſt, quhilk aucht not to be defrauded of the fruites of her awin children, and ſpecialie of his hienes laboures, appointed be God to be ane nuriſner of the ſamin, and oppinlie declaring be pen, and awowing in deid the defence thairof in that maiſt peril<g ref="char:EOLhyphen"/>lous tyme quhen the foirſaid enemeis ioyned togidder did rage and bend thair force againſt it, I haue bene bold to communicat it to the. Accept thairfoir the ſamin in gude part, and I aſſure the befoir or it be lang be Goddis grace thow ſall ſee to thy content<g ref="char:EOLhyphen"/>ment and comfort a lairger pruife of his Maieſties meaning ex<g ref="char:EOLhyphen"/>preſſed be his royall pen in yat ſamin argument. For gif God ſall grant his Maieſtie may weill allow of this my doing, as I think it will be of all gude Chriſtianes, then ſall I with greater boldnes put to my hand, and communicat vnto the the greater worke. Nochttheles till thow reid this with iudgement, approue it ac<g ref="char:EOLhyphen"/>cording to knawledge, and with thankfull &amp; feruent hart, praiſe God, and pray for ane gude and ane lang lyfe to his Maieſtie, with ane gracious and peaceable gouernement in his feir, that his Grace may continue to the end, and in the end, ane pledge of Goddis mercie with vs, and ane licht worthie of the ſtyle of ye maiſt gratious and chriſtiane King aboue all the kinges in the earth. So fare well in the Lord. The I of October. 1588.</p>
+            <closer>
+               <signed>M. Patrik Gallow Miniſter of P.</signed>
+            </closer>
+         </div>
+         <div type="epigram">
+            <pb facs="tcp:1190:3"/>
+            <head>EPIGRAMMA PER TROPVM AL<g ref="char:EOLhyphen"/>LVSIONIS AD NOBILE REGIAE MAIES<g ref="char:EOLhyphen"/>tatis nomen, quod huius pij, &amp; eruditi Ser<g ref="char:EOLhyphen"/>monis praecipuum argumentum complectitur. Per M. I. Malcolmum.</head>
+            <l>REGIA Maieſtas ſortiti nominis, imò</l>
+            <l>Diuini aeternum numinis edit opus.</l>
+            <l>Illa etenim Satanae atrox ſupplantat atrocis</l>
+            <l>Imperium: hoe ſanctum, &amp; nobile prodit opus,</l>
+            <l>Nobile prodit opus tanto te Principe dignum:</l>
+            <l>Vnde immortalis iam tibi ſurgit honos,</l>
+            <l>Irgo tibi nomen numen decreuit, ab alto</l>
+            <l>Numine nam nomen, nomine numen habes.</l>
+            <l>Iam fremat Hiſpanus, Gallus gemat, hoſtis &amp; omnis:</l>
+            <l>Noſter enim vera Rex pietate nitet.</l>
+            <l>Perge precor, Rex ſancte, &amp; ſanctis vtere donis,</l>
+            <l>Vt regnet dominus, ſed cadat hoſtis atrox.</l>
+         </div>
+         <div type="poem">
+            <head>VATICINII DE MAXIME VERE chriſtiano Scotorum Rege explicatio, &amp; ad opus applicatio. Per eundem.</head>
+            <l>FATIDICI cecinere patres, quod moenia Romae</l>
+            <l>Alta forent armis, Rex, ruitura tuis.</l>
+            <l>Vera quidem, capitum multorum nam eadit armis</l>
+            <l>Romae pneumaticis bellua Papa tuis.</l>
+            <l>Somaticis dirum, monſtrumue immane ferito,</l>
+            <l>Et coniuratis hoſtibus vltor ades.</l>
+            <l>Qui feritate truces illum graſſantur in orbem,</l>
+            <l>Qui Dominum vera ſimplicitate colit.</l>
+            <l>Ergo age, qui Chriſtum verè profiteris Ieſum:</l>
+            <l>Iunge tibi gentem relligione parem.</l>
+            <l>Qui tibi portentum dedit expugnare ſuperbum,</l>
+            <l>Te quoue victorem Spiritus ille dabit.</l>
+            <l>Clara quidem latè aequabit te gloria coelo</l>
+            <l>Fuſa ſolo, hoc functus coelica regna coles.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:1190:3"/>
+            <head>ANE FRVITFVLL Meditatioun contening ane PLANE AND FACILL EXPO<g ref="char:EOLhyphen"/>ſitioun of the 7.8.9. and 10 verſis of ye 20 Chap. of the Reuelatioun.</head>
+            <div type="part">
+               <head>The Text. Reuel. CHAP. 20. VERS. 7.8.9.10.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>ND quhen the thouſand ȝeiris at expyrit, Satan ſall be lowſed out of his preſone.</p>
+               <p n="8">8 And ſall go out to deceaue the people quhilk ar in the four quarters of the earth, euin Gog and Magog, to gather them togither to battell, quhois number ar as the ſand of the ſea.</p>
+               <p n="9">9 And they went vp into the plane of the earth, quhilk compaſſed ye tentis of the Saintis about, and the belouit citie: bot fyre come doun from God out of the heauin, and deuoured them.</p>
+               <p n="10">10 And ye deuill that deceauit them, was caſt into a lake of fyre and brintſtone, quhair that beaſt and that falſe prophete ar, and ſall be tormented euin day and nycht for euer more.</p>
+            </div>
+            <div type="part">
+               <head>The Meditatione.</head>
+               <p>
+                  <note place="margin">The acceſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le of the know<g ref="char:EOLunhyphen"/>ledge <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Revel <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note>
+                  <seg rend="decorInit">A</seg>S of all buikis the holie Scripture is maiſt ne<g ref="char:EOLhyphen"/>ceſſarie for the inſtructioun of ane Chriſtiane, and of all the ſcriptures, the buik of the Reuelatioun is maiſt meit for this our laſt age, as ane prophe<g ref="char:EOLhyphen"/>cie of the letter tyme: Sa haue I ſelected this
+<pb facs="tcp:1190:4"/>place thair of as maiſt propre for the actioun we haue in hand preſentlie: For efter that the Apoſtle Iohne had prophecy it of the letter tymes in the nyntene chaptouris preceding, he now in this <hi>20</hi> gatheris vp ane ſumme of the haill, quhairin ar ex<g ref="char:EOLhyphen"/>preſſed thrie heidis. Firſt the happie eſtait of the Kirk, from Chriſtis dayis to the dayis of the defectioun &amp; of ye Antichriſt, in the firſt ſex verſis of this <hi>20</hi> chap. Nixt the defectioun it ſelf, in this place that I haue in hand, to wit, the ſeuint, aucht, nynt, and tent verſis. Thridlie the generall puniſhment of the wickit in ye greit day of Iudgement, from the tent vers to the end of the chaptour. The Apoſtles meaning in this place then is this, that efter that Sathan had bene bound ane thouſand ȝeiris, quhilk did appeir by his preceding diſ<g ref="char:EOLhyphen"/>cours of the ſaintis triumphing in the earth, he ſall at laſt brek furth agaue lows, and for ane ſpace rage in the earth mair then euer befoir: bot ȝit ſall in the end be ouercome and confoundit for euer. It reſtis now, knawing the ſumme, that we come to ye expoſitioun of thir verſis. And firſt we will expone or paraphraſe the hardnes of the wordis, nixt in<g ref="char:EOLhyphen"/>terpreit ye meaning of them, and thridlie note quhat we ſould learne of all.</p>
+            </div>
+            <div n="1" type="part">
+               <head>The firſt part.</head>
+               <p>AS to the wordis, in them for ordouris caus we man note, firſt Sathanis lowſing, nixt his doing efter that he is lowſit, and laſt his vnhappie ſucces. Then for ye firſt. Be Sathan is meanit nocht onlie the Dragone enemie to Chriſt and his Kirk, bot alſo with him all ye inſtrumentis in quhom he rewlis,<note place="margin">Satan i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his inſtrumentis is lowſed to trouble the Kirk.</note> and be quhom he vtteris his cruell and craftie intentioums, ſpecialie ye Antichriſt and his clergie: ioynit with ye Dragone befoir in the ſextene chap. verſ. <hi>17.</hi> and callit the beaſt and ye falſe prophete. For as Chriſt and his Kirk ar callit efter ane name Chriſt, be reſſoun of thair maiſt aret vnioun, and heuinlie effectis flowing thairfra. <hi>1,</hi> Cor. <hi>12.12.</hi> ſa Sathan and his ſynagoge ar heir richtlie callit Sathan be reſſoun of thair vnioun and curſit effectis flowing thairfra. Thir thouſand ȝeiris ar bot ane number
+<pb facs="tcp:1190:4"/>certane for ane vncertane, quhilk phraſe is oft vſit be the Spirit of God in the ſcriptures, meaning ane greit number of ȝeiris. Mair ouer the preſone quhairout of he is lowſit is ye hellis quhilk by ye Spirit of God ar callit his preſone for twa cauſes. Ane becaus during the tyme of this warld at tymes ap<g ref="char:EOLhyphen"/>pointit be God he is debarrit from walking in the earth and ſend thair, greatlie to his torment,<note place="margin">2. Pet. 2.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Iude verſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> as was teſtifeit be ye mira<g ref="char:EOLhyphen"/>cle at Geneſareth amangis the Gadarenis. Math. <hi>8.28.</hi> Nixt becaus efter ye conſummatioun of ye warld he ſall be perpetu<g ref="char:EOLhyphen"/>allie impreſonit thairin as is writtin mye ſame chap. verſ. <hi>10.</hi> Finalie he is lowſit be interruptioun, and for ye maiſt part, to ye iudgement of men, abolitioun of the ſynceir preaching of ye Goſpell, ye trew vſe of ye Sacramentis quhilkis ar ye ſealis &amp; pledgis of ye promiſis contenit thairin, and lawfull exerciſe of chriſtiane diſcipline, quhairby baith word and ſacramentis ar mantenit in puritie, callit in ye firſt vers, The greit chaine quhairby ye Dragone is bound, and ſignifeit be ye quhyte horſe gouernit be ye Lamb. chap. <hi>6.</hi> ver. <hi>2.</hi> Swa ye meaning of all yis <hi>7</hi> vers is this: The deuill, hauing bene bound, &amp; his power in his inſtrumentis hauing bene reſtrainit for a lang ſpace be ye prea<g ref="char:EOLhyphen"/>ching of ye goſpell, at laſt he is lowſed out of hell by ye rai<g ref="char:EOLhyphen"/>ſing vp of ſamony new errouris and notable euill inſtrumen<g ref="char:EOLhyphen"/>tis, eſpecialie ye Antichriſt and his clergie, quha not onlie infectit ye earth of new, bot impyrit alſo ouer ye haill, through the decreſſe of trew doctrine and ye number of ye faithfull following it, and ye daylie incres of errouris, and natiounis following them, beleuing lies, haiting ye treuth, and tak<g ref="char:EOLhyphen"/>ing pleaſour in vnrichteouſnes. <hi>2.</hi> Theſſ. <hi>2.11.12.</hi> And this far for Sathanis lowſing. Now to the nixt, his doing efter that he is lowſit. Firſt he gois ont to ſeduce ye na<g ref="char:EOLhyphen"/>tiounis that a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into ye four corneris of ye earth,<note place="margin">Satan firſt deceiuis, then allures to fol<g ref="char:EOLhyphen"/>low him, and in end makis all his to tak armour a<g ref="char:EOLhyphen"/>gainſt the Kirk.</note> and they be<g ref="char:EOLhyphen"/>come his, thocht in certaine degreis his tirannie and trauell appearis, and birſtis out in ſome mair then in vtheris. For as all that do guid ar inſpyrit be God thairto, and vtteris the ſame in certane degreis, according to the meaſour of grace grantit vnto them. Sa all that do euill ar inſpyred be Sa<g ref="char:EOLhyphen"/>than, and vtteris the ſame in diuerſe degreis, according as
+<pb facs="tcp:1190:5"/>that ducleue ſpirit takis poſſeſſioun in them, and be diuerſe ob<g ref="char:EOLhyphen"/>iectis alluris them to do his will, ſum be ambitioun, ſum be inuie, ſum be malice, and ſum be feir, and ſo furth, and this is his firſt wark. Secundlie he gatheris Gog and Magog to battell in number lyke the ſand of the ſea, and ſo he and his inclynit to battell and bludeſhed, haue michtie armies, and in number mony, inflammed with crueltie. The ſpeciall heidis and rewlaris of thir armies, or rather rankis of confederatis to go to battell and to fecht ar twa heir named, Gog and Ma<g ref="char:EOLhyphen"/>gog. Gog in Hebrew is callit hid and Magog reueled, to ſig<g ref="char:EOLhyphen"/>nifie that in twa ſortis of men cheiflie Sathan ſall vtter him ſelf, to wit, hypocritis and awowit enemers to God. It is ſaid then that Sathan ſall in the letter tymes impyre of new ouer the Warld, quho ſall ſteir vp the nationis vnder the baneris of thir twa enemeis to God, the hypocriticall and awowit, to ſprid them ſelfis in greit multitudes vpon the earth. Thridlie they ſall aſcend vpon the plane of the earth, preſumpteouſlie and proudlie bragging of thair number and force, and thin<g ref="char:EOLhyphen"/>king nane ſall be abill to reſiſt thair rage. They ſall com<g ref="char:EOLhyphen"/>paſſe and beſiege the campis of the ſaintis, and the belouit ei<g ref="char:EOLhyphen"/>tie, that is, the handfull of the faithfull belouit of the Lord, quhome agams, confyding in thair vntellable number lyke the ſand of the ſea, they ſall mak a cruell and vnceaſſabill weir. The elect ar callit ſaintis and belouit.<note place="margin">The ele<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> at the Sain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, and the belo<g ref="char:EOLhyphen"/>ued citie of GOD.</note> becaus they ar in the lufe of God ſelectit, and be grace ingrauit in Chriſt, in quhome they ar comptit and fund iuſtifeit, ſanctifeit, worthie of loue and endles glorie. Thair faithfull fellowſhip is comparit to tentis, and to a citie belouit, to ſignifie thair continuall weir<g ref="char:EOLhyphen"/>fair in the earth aganis Sathan and ſinne, with all his inſtru<g ref="char:EOLhyphen"/>mentis: thair mutuall amitie and freindlie coniunctioun in loue amangis them ſelfis: and concurrence to mancene the guid caus that thair God hes cled them with: bot cheiflie to ſignifie the michtie and all ſufficient protectioun in proſperitie and aduerſitie, flowing from God for thair iuſt defence aganis all powers that can perſew, quhairby they alſo become fair as the Mone, pure as the Sone, terrible as ane armie with ba<g ref="char:EOLhyphen"/>ueris, Cant. <hi>1.6, 9.</hi> ȝea as a defencit citie: ane irne pillair: and
+<pb facs="tcp:1190:5"/>wallis of bras againſt ye haill earth. Ier. <hi>1.18.</hi> The ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mne then of Sathanis doingis efter he is lowſit is this: He ſall deceiue ye natiounis: he ſall gather ane infinit number of hypocritis and a<g ref="char:EOLhyphen"/>wowit enemeis togidder inflammed with crueltie, and thir ſall in prydefull preſumptioun fearcelie bend them felfis againſt ye choſm of God, and his treuth profeſſit be them. Bot quhat at laſt ſall ye ſucces be? Suirlie maiſt vnhappy. For fyre ſall cum doun from heauin, and deuour them, and ye deuill yat deceauit them and all his inſtrumentis, cheiflie ye beaſt and fals prophet ſall be caſt in ane laik of fyre and brintſtone, and ſall be tormented day and nycht inceſſantlie for euer and euer: that is, how greit that euer thair braggis be, how neir yat euer they ſall appeir to be at thair intent, God from heuin as the palace and throne quhairfra he geuis pruife of his mercie towardis his awin, and of his iuſtice towardis his enemeis, ſall ſend plagues and de<g ref="char:EOLhyphen"/>ſtructioun, aſweiſt ordinar, as extraordinar, vpon them. Ordi<g ref="char:EOLhyphen"/>nar be reueiling thair wickitnes be ye thundering mouthes of trew paſtouris, quhilk is oft callit fyre in the ſcriptures. Ex<g ref="char:EOLhyphen"/>traordinar by all corporall plagues to thair vtter deſtructioun and vntellable torment for euer in the hellis. This far for the expolitioun or paraphraſe of the wordes.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecund part.</head>
+               <p>NOW followis the interpretatioun of the ſentence ac<g ref="char:EOLhyphen"/>cording to the ordour vſit in the firſt part. And firſt we man knaw quhat time thir thouſand or mony ȝeiris was in, and quhen and how was Sathan lowſit.<note place="margin">The puritie of the Goſ<g ref="char:EOLhyphen"/>pell in during ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yes the Ant<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ry<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g.</note> This time is to be found in the ſaxt chaptour, in the opening of the firſt thrie ſeales of ye ſecreit buik of Gods prouidence beye Lamb: To wit, ye time quhen the quhyte, read, and black horſes had their courſe in the warld. And to ſpeak mair plainely, ye De<g ref="char:EOLhyphen"/>uils power did lurk, quhilk is callit his binding, and ye Euan<g ref="char:EOLhyphen"/>gell did floreiſh in ane reſſonable puritie mony hundreth ȝeiris efter Chriſt, as ye Eccleſiaſticall hiſtories beir witnes. For in greit puritie the Goſpell did continue lang, quhilk is ſig<g ref="char:EOLhyphen"/>nifeit by the courſe of the quhyt hors, albeit ye profeſſouris
+<pb facs="tcp:1190:6"/>wee vnder ye croce ſignifyit by ye reid hors, and traublit wonderfullie be heretickis, ſignifeit by ye blak hors, by worme<g ref="char:EOLhyphen"/>wod that fell in ye fontainis of wateris in ye thrid trumpet, and by wateris that ye Oragone ſpewit out of his mouth in ye viſioun of ye Dragone and ye woman. chap. <hi>12.</hi> This tyme did indure from Chriſt, ane ſpace efter Auguſtinis duy is, quhen ye bloodie ſword of perſecutioun ceaſſing, ye haill Kirk began to be defylit with diuerſe hereſies, quhilk cumming to ane ma<g ref="char:EOLhyphen"/>ture &amp; rype heip did produce ye Antichriſt, ſignifeit be ye paill hors in ye fourt ſeall,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o Goſpel <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> by ye king of ye locuſtis in ye <hi>5</hi> trumpet, by Babylon in ye <hi>11</hi> &amp; <hi>18</hi> chap. by ye ſecund beaſt ryſing out of ye ſea in ye <hi>13</hi> chap. and by ye woman cled with ſcarlet in ye <hi>17.</hi> The aryſing of ye hereſeis and ye Antichriſt breading of thair ſmok is in this place callit ye lowſing of Sathan. Now fol<g ref="char:EOLhyphen"/>lowis efter this his lowſing quhat he dois: He deceiuis ye na<g ref="char:EOLhyphen"/>tiounis vniuerſallie: he gatheris Gog and Magog with intella<g ref="char:EOLhyphen"/>ble armies to fecht: he leuies vp vpon ye plane of ye earth: he compaſſis ye tentis of ye ſaintis, and ye belouit citie about. Thir ar his doingis. Now becaus thir actiounis ar maiſt viuelie de<g ref="char:EOLhyphen"/>clarit in vther placis of ye ſame buik, I will ſhortlie alleage them to mak ye mater cleir be conference of places expomng euery ane ane vther. It is ſaid in ye <hi>9</hi> chap. that ye Antichriſt ſall hound out his locuſtis or eccleſiaſtick ordouris be fair al<g ref="char:EOLhyphen"/>lurementis to intyſe ye warld to ȝeild to his &amp; thair abominable hereſeis, and ſall preuaill ouer ye maiſt part. It is ſaid in ye <hi>11</hi> chap. that he ſall perſecute ye ſaintis, kill ye twa witneſſis, and ſall reioyce with ye kingis of ye earth for thair killing, as ha<g ref="char:EOLhyphen"/>uing bene ye onlie lettis to his full glorie. It is ſaid in ye <hi>13</hi> chap. that he ſall blaſpheme God in vſurping his power: that be ye aduiſe and aſſiſtance of ye fals prophet or fals kirk he ſall ſend out his imagis or ambaſſadouris throw ye warld per<g ref="char:EOLhyphen"/>ſecuting and deſtroying them that will nocht obey him and them, and acknawledge his ſupremacie: ȝea nane ſall be ſufferit to by or ſell or vſe ciuill ſocietie that acknawledgis not his ſupreme power and dignitie. It is ſaid in ye <hi>16</hi> chap. that God plaguing him for thir forſaidis abuſis, he ſall be ſa far from repentance, as be ye coutrair he ſall find out ane
+<pb facs="tcp:1190:6"/>new ſort of vermine, that is, are new eccleſiaſtick ordour, quhilk at callit thair froggis, quha ſall moue and entyſe ye princes of the earth to ioyne with him and mak weir againſt ye faithfull, preiſſing vtterlie to deſtroy them: and of that battell and the end thairof dois this place mak mentioun. Now ſhortlie ioyne all this togidder, and ſa obtene the meaning. Thair ſall aryſe ane Antichriſt and enemie to God &amp; his Kirk: he ſall be hew of ane fals and hypocriticall Kirk: he ſall clame ane ſupreme power in earth: he ſall vſurpe the power of God: he ſall deceiue men with abuſing locuſtis: he ſall perſecute ye faithfull: nane ſall be fund that dar awowedlie reſiſt him: in end, feiling his kingdome de<g ref="char:EOLhyphen"/>cay, and the trew kirk beginning to kyith, he ſall by ane new ſort of deceiuing ſpiritis gather togidder the kingis of the earth in greit multitudis lyke the ſandis of the ſea, and by concurrence, or at leiſt the tollerance of that vther greit awowit enemie he ſall with thir numbers compaſſe the oampis of the faithfull, beſeage the belouit citie, mak weir againſt the ſaintis: bot vic<g ref="char:EOLhyphen"/>torie ſall he not haue,<note place="margin">The Pape <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Antichriſt, &amp; Paperie ye lowſing of Satan, ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> quhom pro<g ref="char:EOLhyphen"/>ceidis f<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> doctrine, and crueltie to ſubuert ye kingdome of Chriſt.</note> and ſhame and confuſioun ſall be his and all his partakeris end. Now quhither the Pape beiris thir mar<g ref="char:EOLhyphen"/>kis or not, let ony indifferent man iudge: I think ſurelie it ex<g ref="char:EOLhyphen"/>ponis the ſelf: Dois he not vſurpe Chriſtis office calling him ſelf vniuerſall biſhop, &amp; heid of the kirk: Playis he not ye part of Apollyon and Abaddon the king of the locuſtis and deſtroyer or ſone of perditioun, in chopping and changing ſaulis betuixt hewin, hell, &amp; fantaſtick purgatorie at his pleaſour: Blaſphemis he not in denying vs to be ſaiff by ye imputatioun of Chriſtis iuſtice. Mairouer hes he not ſend furth and abuſie ye warld with innumerable ordouris of locuſtis and ſhaue lingis. Hes he not ſa fullie impyrit ouer ye warld thir mony hundreth ȝeiris as to ye fyre ȝeid he, quhat ſumeuer he was, yat durſt deny ony part of his vſurpit ſupremacie: And hes he not of lait dayis ſeing his kingdome going to decay, ſend out the Ieſuitis, his laſt and maiſt pernicious vermine, to ſteir vp the Princes of the earth his ſlauis, to gather and league them ſelfis togidder for his defence, and rooting out of all them that profeſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Chriſt trew<g ref="char:EOLhyphen"/>lie. And quhairas ye awowed enemie of God ye Turke was vn<g ref="char:EOLhyphen"/>der bloodie weiris with him euer befoir, is their not of ſait ane
+<pb facs="tcp:1190:7"/>trewis amaugis them, that the faithfull may be mair eaſilie rooted out. And ar nocht preſentlie ye armies amaſſit, ȝea vpon ye verie point of thair executioun: In France againſt the ſaintis thair: In Flanders for the lyke: and in Germanie, be quhom alreddie ye Biſchop of Colley ne is diſplacit: And quhat is preparit and cum fordwart againſt this Ile: Do we not daylie heir: and be all appearance ſhortlie ſall ſee: Now may ȝe iudge gif this be not ye tyme quhairof this place that I haue maid chois of doeth meane, and ſa ye dew tyme for the reueiling of this prophecie. This far for ye interpreta<g ref="char:EOLhyphen"/>tioun of the ſentence.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The thrid part.</head>
+               <p>NOW I cum to the laſt part, quhat we may learne of this place, quhilk I will ſhortlie tuiche in few pointis and ſa mak end. And firſt of ye deuillis lowſing be ye ryſing of ye Antichriſt, for ye iuſt puniſhment of ye vnthank<g ref="char:EOLhyphen"/>full warld haiting ye treuth and delyting in lies, and mani<g ref="char:EOLhyphen"/>feſting of his awin choſin that ſtak to ye treuth: we haue twa thingis to note.<note place="margin">Mannis ſinne p<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap> Gods iuſtice to lows Satan.</note> Ane for inſtructioun, that ye iuſtice of God in reſpect of mannis falling wilfullie from ye treuth (as Paull ſayis) iuſtlie did ſend to ye warld the greit abuſer with effi<g ref="char:EOLhyphen"/>cacie of lies, aſweill to tyrannize ſpirituallie ouer ye conſcience be hereſie, as corporallie ouer thair bodyis be ye ciuill ſworde. And thairfoir we man feir to fall from ye treuth reuiled, and profeſſed be vs, that we may be frie from ye lyke puniſhment. The vther for our comfort,<note place="margin">Apoſtates ſall p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lie, con<g ref="char:EOLunhyphen"/>ſtant chriſti<g ref="char:EOLhyphen"/>anes ſall be crouned.</note> that yis tyrannie of ye Antichriſt ſifting out ye caffe from ye corne, as our Maiſter ſayis, ſall tend to ye double condemnatioun of ye falleris bak, and to ye double croun of glorie to ye perſeueireris. Bliſſit thairfoir ar they that perſeueir to ye end,<note place="margin">Math. 10.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> for they ſall be ſaiff.</p>
+               <p>
+                  <note place="margin">The defecti<g ref="char:EOLhyphen"/>oun vnder ye Antichriſt ſall be vni<g ref="char:EOLhyphen"/>uerſall.</note>Nixt of ye number of natiounis in the four quarteris of ye earth deceaued, and companies gatherit togidder to fecht lyke the ſand of ye ſea: we ar teachit that ye defectioun vnder ye Antichriſt was generall, and ſa na viſible Kirk was thair: Quhairof twa thingis followis. Ane, the Kirk may be cor<g ref="char:EOLhyphen"/>ruptit and erre: Ane vther, the Kirk may lurk and be vn<g ref="char:EOLhyphen"/>knawin
+<pb facs="tcp:1190:7"/>for ane certane ſpace.</p>
+               <p>Thridlie of that that Sathan is not coutentit onlie to de<g ref="char:EOLhyphen"/>ceaue, except he alſo gather to ye battell his inſtrumentis:<note place="margin">Satans chil<g ref="char:EOLhyphen"/>dren baith deceiue and perſe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> we ar informit of ye implacable malice borne be Sathan in his inſtrumentis againſt God in his members, quha neuer reaſſis lyke ane roring lyoun (as Peter ſayis) to go about aſſailleing to deuour. This his malice is notablie deſcriuit in ye <hi>12</hi> and <hi>13</hi> chap. of this buik: for it is ſaid that quhen he had ſpewed out greit riueris of wateris, yat is, infinit hereſies and lies to ſwallow vp ye woman, and notwithſtanding ſho was delyuerit thairfra: ȝit agane he raiſit vp ane beaſt out of ye ſea, ye bloodie Romane impyre be ye ſworde, to deuour hir and hir ſeid: and that being woundit deidlie, ȝit he raiſis ane vther beaſt furth of ye earth, quhilk is ye Antichriſt, be hereſie and ſworde toynit togidder to do his turnis. Saye Deuill ſeing that na miſt of hereſies can obſcure ye euangell in ye hartis of ye faithfull, nather ye cruell ſworde of perſecuteris can ſtay ye proſperous ſucces of Chriſtis kingdome he raiſis vp ye Antichriſt with baith his ſwordis, to the effect that, as ane of them ſayis, that quhilk Peters keyis culd nocht, Pauls ſword ſould. And ſo hes he done at this tyme: For ſen ye trew Kirk will not be abuſit with ye abſurde hereſies, for laſt refuge, now rooted out moſt they be by ye ciuill ſword.</p>
+               <p>Ferdlie of thair greit numberis abill to compaſſe about ye tentis of ye ſaintis, and to beſeage ye halie cities:<note place="margin">The wickit i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> numbers e<g ref="char:EOLhyphen"/>uer ouerpaſſe ye godlie.</note> we ar infor<g ref="char:EOLhyphen"/>med that ye wickit ar euer ye greiteſt part of ye warld. And thair foir our Maiſter ſayis, Many ar callit, few choſin: and agane, Vyde is ye way that leidis to deſtructioun, and many enter thairat: Bot narrow is ye way that leidis to lyfe, and few enter thairat. Alſo he callis them ye warld, and the De<g ref="char:EOLhyphen"/>uill the Prince of ye ſame,</p>
+               <p>Fyftlie ye agreance of Gog and Magog, the Turke ye awowit enemie, and ye Pape ye couered enemie,<note place="margin">The wickit at variance amangis the<g ref="char:cmbAbbrStroke">̄</g> ſelf, can we ll agrie in an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> againſt Chriſt.</note> to this per<g ref="char:EOLhyphen"/>ſecutioun: declaris ye rooted haitred of ye wickit againſt ye faithfull: quha thocht they be vtherwayis in enimitie amangis them ſelfis, ȝit greis in that reſpect, <hi>in odium tertij,</hi> as did Herode and Pilate.</p>
+               <pb facs="tcp:1190:8"/>
+               <p>Sextlie the compaſſing of ye ſaintis, and beſeaging of ye belouit citie,<note place="margin">The fals Kirk ouer perſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tes.</note> declaris to vs ane certane note af ane fals Kirk to be perſecutioun. For they cum to ſeik ye faithfull: the faith<g ref="char:EOLhyphen"/>full ar thes that ar ſocht. The wickit ar ye beſeageris: the faithfull ye beſeagit.</p>
+               <p>
+                  <note place="margin">Scripture be ſcripture fuld be exponed.</note>Seuintlie in ye forme of language and phraſe of ſpeaking of fyre cumming doun from heauin heir vſit, and takin out of ye buik of ye Kingis,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Reg. 1.10, 11</note> quhair at Elias prayeris with fyre from heauin wer deſtroyit Achazias ſouldiouris: as ye greiteſt part of all ye wordis, verſis, and ſentences of this buik ar takin and borrowit out of vther partis of ye ſcripture: We ar teachit to vſe onlie ſcripture for iuterpretatioun of ſcripture, gif we wald be ſuir and neuer wauer from ye analogie of faith in ex<g ref="char:EOLhyphen"/>poſitioun: ſence it repeitis ſa oft ye awin phraſes, and yair<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y exponis thame.</p>
+               <p>
+                  <note place="margin">The wickit preuaile not for euer, bot periſhe in ye top of their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ourſe.</note>Auchtlie of the laſt part of ye confuſioun of ye wickit, euin at ye top of their heicht and quheill, we haue twa thingis to note. Ane, that God althocht he ſuffer ye wickit to rinne on quhiſl thair coupe be full: ȝit in end ſtrykis he them, firſt in this warld, and nixt in ye warld to cum, to ye delyuerance of his Kirk in this warld, and perpetuall glorie of ye ſamur in ye warld to cum. The vther note is, that efter ye greit perſe<g ref="char:EOLhyphen"/>cutioun and deſtructioun of ye perſeweris ſall ye day of iudge<g ref="char:EOLhyphen"/>ment follow. For ſa declaris ye <hi>11</hi> vers of ye ſame chaptour. Bot in how ſhort ſpace it fall follow, that is onlie knawin vnto God. Onlie this far ar we certane, that in that laſt eſtait without ony ma generall mutatiounis ye warld ſall remane till ye conſummatioun.</p>
+               <p>To conclude then with exhortatioun: It is all our dew<g ref="char:EOLhyphen"/>ties in this Ile at yis tyme to do twa thingis.<note place="margin">All men ſuld be lawfullie ina<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>med ſpi<g ref="char:EOLhyphen"/>ritualite and bodelie to ſeekt againſt ye Antichriſt and his ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſtes.</note> Ane, to conſid<g ref="char:EOLhyphen"/>der our eſtait: Another, to conforme our actiounis according thairunto. Our eſtait is, we ar thrtefaldlie beſeagit, Firſt ſpirituallie be ye hereſies of ye Antichriſt. Secundlie corpo<g ref="char:EOLhyphen"/>rallie and generallie, as memberis of that Kirk ye quhilk in haill they perſecute. Thridlie corporallie &amp; particularlie be yis preſent armſe. Our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctiounis then conformed to our eſtait at ſhes: Firſt to call for help at Goddis handis: Nixt to aſſure
+<pb facs="tcp:1190:8"/>vs of ye ſame, ſeing we haue ane ſufficient warrand, his conſtant promeis expreſſed in his word. Thridlie ſence. with guid conſci<g ref="char:EOLhyphen"/>ence we may, being in ye tentis of ye ſaintis &amp; belouit citie, ſtand in our defence Incourage ane another to vſe lawfull reſiſtance, and concur ane with another as warriouris in ane camp and citizenis of ane belouit citie, for mantenance of ye guid caus God hes cled vs with, and defence of our liberties, natiue countrie, and lyfes. For ſence we ſee God hes promiſit not onlie in ye warld to cum, bot alſo in this warld to giue vs vic<g ref="char:EOLhyphen"/>torie ouer them, Let vs in aſſurance heir of ſtronglie truſt in our God, Ceaſſe tomiſtruſt his promeis, and fall through in<g ref="char:EOLhyphen"/>credulitie. For then ar we worthie of double puniſhment. For the ſtronger they wax, and ye neirer they cum to thair hicht, the faſter approchls thair wrak, and the day of our dely<g ref="char:EOLhyphen"/>uerie. For kynd and louing, trew and conſtant, cair<g ref="char:EOLhyphen"/>full and walkryfe, michtie and reuenging is he that promiſis it: quhom to be praiſe and glorie for euer.</p>
+               <closer>AMEN.</closer>
+               <pb facs="tcp:1190:9"/>
+               <pb facs="tcp:1190:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
